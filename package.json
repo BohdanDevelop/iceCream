@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://naf24.github.io/goitbootcamp16-team2",
+  "homepage": "https://BohdanDevelop.github.io/iceCream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goitbootcamp16-team2/"
+    "build": "parcel build src/*.html --public-url /iceCream/"
   },
   "repository": {
     "type": "git",
